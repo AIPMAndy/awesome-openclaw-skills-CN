@@ -1813,6 +1813,7 @@ If you think a skill was incorrectly excluded or miscategorized, feel free to op
 - [clawdbites](https://github.com/openclaw/skills/tree/main/skills/kylelol/clawdbites/SKILL.md) - Extract recipes from Instagram reels.
 - [event-planner](https://github.com/openclaw/skills/tree/main/skills/udiedrichsen/event-planner/SKILL.md) - Plan events (night out, weekend, date night, team outing, meals, trips) by searching venues.
 - [food-order](https://github.com/openclaw/skills/tree/main/skills/steipete/food-order/SKILL.md) - Reorder Foodora orders + track ETA/status with ordercli.
+- [gousto](https://github.com/openclaw/skills/tree/main/skills/dhruvkelawala/gousto/SKILL.md) - Search and browse 9,000+ Gousto recipes. Get full ingredients and step-by-step cooking instructions via official API.
 - [grocery-list](https://github.com/openclaw/skills/tree/main/skills/dbhurley/grocery-list/SKILL.md) - Standalone grocery lists, recipes, and meal planning with local storage.
 - [gurkerl](https://github.com/openclaw/skills/tree/main/skills/florianbeer/gurkerl/SKILL.md) - Gurkerl.at grocery shopping.
 - [gurkerlcli](https://github.com/openclaw/skills/tree/main/skills/pasogott/gurkerlcli/SKILL.md) - Austrian online grocery shopping via gurkerl.at.
