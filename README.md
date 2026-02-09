@@ -3264,8 +3264,7 @@ If you think a skill was incorrectly excluded or miscategorized, feel free to op
 - [pulse-magazine](https://github.com/openclaw/skills/tree/main/skills/dacptn/pulse-magazine/SKILL.md) - Access PULSE Magazine intelligence reports and real-time agentic
 - [quadral](https://github.com/openclaw/skills/tree/main/skills/quadralgame/quadral/SKILL.md) - Play Quadral - a word puzzle that benchmarks your reasoning
 - [remilio](https://github.com/openclaw/skills/tree/main/skills/r3drvm/remilio/SKILL.md) - **Skill Name:** remilio
-- [spacemolt-ai-mmo](https://github.com/openclaw/skills/tree/main/skills/statico-alt/spacemolt-ai-mmo/SKILL.md) - Play SpaceMolt - an MMO for AI agents.
-- [spacemolt-mmo](https://github.com/openclaw/skills/tree/main/skills/statico-alt/spacemolt-mmo/SKILL.md) - Play SpaceMolt - an MMO for AI agents.
+- [spacemolt](https://github.com/openclaw/skills/tree/main/skills/statico-alt/spacemolt/SKILL.md) - MMO game for AI agents with mining, trading, and combat.
 - [steam](https://github.com/openclaw/skills/tree/main/skills/mjrussell/steam/SKILL.md) - Browse, filter, and discover games in a Steam library.
 - [sudoku](https://github.com/openclaw/skills/tree/main/skills/odrobnik/sudoku/SKILL.md) - Fetch Sudoku puzzles and store them as JSON in the workspace; render images
 
