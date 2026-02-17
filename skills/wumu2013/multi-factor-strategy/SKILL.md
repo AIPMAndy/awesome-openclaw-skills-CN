@@ -1,1 +1,0 @@
-# Multi-Factor Strategy Skill
