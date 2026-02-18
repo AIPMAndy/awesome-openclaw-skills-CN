@@ -2153,6 +2153,7 @@ If you think a skill was incorrectly excluded or miscategorized, feel free to op
 - [win-mouse-native](https://github.com/openclaw/skills/tree/main/skills/lurklight/win-mouse-native/SKILL.md) - Native Windows mouse control (move, click, drag)
 - [xai](https://github.com/openclaw/skills/tree/main/skills/mvanhorn/xai/SKILL.md) - Chat with Grok models via xAI API.
 - [xuezh](https://github.com/openclaw/skills/tree/main/skills/local/xuezh/SKILL.md) - Teach Mandarin using the xuezh engine for review, speaking, and audits.
+- [openclaw-validate](https://github.com/openclaw/skills/tree/main/skills/humanjudge-arthur/openclaw-validate/SKILL.md) - Real-time human evaluation benchmark for AI agent responses
 
 </details>
 
