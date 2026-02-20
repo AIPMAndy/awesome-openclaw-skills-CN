@@ -42,6 +42,12 @@ If an author has multiple skills in the same area, please don't add them one by 
 - Fix broken links, typos, or outdated descriptions via PR
 - If a skill has been removed or deprecated, open an issue or submit a PR to remove it
 
+## Security Policy
+
+We only include skills whose security status on [ClawHub](https://www.clawhub.ai/) is **not flagged as suspicious**. Skills that are marked as suspicious on ClawHub will not be accepted into this list.
+
+If you believe a skill currently in this list has a security concern or should be flagged, please [open an issue](https://github.com/VoltAgent/awesome-clawdbot-skills/issues) so we can review and remove it.
+
 ## Important
 
 - This repository curates links only. Each skill lives in the official OpenClaw skills repo.
