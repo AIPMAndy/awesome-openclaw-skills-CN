@@ -1,12 +1,7 @@
 <div align="center">
-<div align="center">
-    <strong>发现 2868 个社区构建的 OpenClaw Skills，按分类整理，面向中文开发者友好阅读。
-    </strong>
+    <strong>🇨🇳 发现 2868 个社区构建的 OpenClaw Skills，按分类整理，面向中文开发者友好阅读。</strong>
     <br />
     <br />
-</div>
-
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [![Skills Count](https://img.shields.io/badge/skills-2868-blue?style=flat-square)](#table-of-contents)
 [![Last Update](https://img.shields.io/github/last-commit/AIPMAndy/awesome-openclaw-skills-CN?label=Last%20update&style=flat-square)](https://github.com/AIPMAndy/awesome-openclaw-skills-CN/pulls?q=is%3Apr+is%3Amerged+sort%3Aupdated-desc)
@@ -15,17 +10,28 @@
 
 # Awesome OpenClaw Skills CN
 
-> 中文版仓库名：`awesome-openclaw-skills-CN`
->
-> 说明：本项目基于 [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) 翻译制作，原项目采用 MIT 开源协议。
+## 👋 关于本项目
+
+**我是 Andy**，前腾讯/百度 AI 产品专家，现专注于 AI 商业战略顾问与 AI Agent 生态研究。
+
+做这个中文化项目的初衷：
+- **降低门槛**：让中文开发者无需翻墙、无需啃英文文档，快速上手 OpenClaw
+- **本土适配**：整理国产模型接入指南、推荐适合国内开发者的 Skills
+- **社区共建**：希望更多中文开发者参与 AI Agent 生态建设
+
+📖 **特色内容：**
+- [🇨🇳 国产大模型接入指南](./CHINESE-MODELS.md) — DeepSeek / 通义千问 / GLM / Moonshot / 豆包
+- [🇨🇳 中文开发者推荐 Skills](./CHINESE-SKILLS.md) — 飞书 / 企业微信 / 小红书 / 知乎 / B站
+
+📬 **联系我：** 微信 `AIPMAndy`（备注：OpenClaw）
+
+---
+
+> 本项目基于 [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) 翻译制作，原项目采用 MIT 开源协议。
+
+## 什么是 OpenClaw？
 
 OpenClaw（曾用名 Moltbot / Clawdbot）是一个运行在本地机器上的 AI 助手。Skill 可以扩展它的能力，让它连接外部服务、自动化工作流并执行专用任务。
-
-本仓库是面向中文开发者的友好版本：
-
-- 中文化了说明文档、安装步骤与贡献流程
-- 保留了原始技能条目（英文名称与链接）以确保可检索性
-- 增加了更贴近中文开发者习惯的使用建议
 
 技能数据来源于 [ClawHub](https://www.clawhub.ai/)（OpenClaw 官方公开技能注册表），并按照分类整理。
 
@@ -115,37 +121,6 @@ npm config set registry https://registry.npmjs.org
 | [Search & Research](#search--research) (253) | [Transportation](#transportation) (76) | [Gaming](#gaming) (61) |
 | [Clawdbot Tools](#clawdbot-tools) (120) | [Personal Development](#personal-development) (56) | [Agent-to-Agent Protocols](#agent-to-agent-protocols) (18) |
 | [CLI Utilities](#cli-utilities) (129) | [Health & Fitness](#health--fitness) (55) | |
-## OpenClaw Deployment Stack（部署生态）
-
- OpenClaw Agent 的部署、托管与交付服务信息。
-
-**赞助位面向为 OpenClaw 开发者提供托管、部署与基础设施服务的团队。**
-
-📩 赞助合作请联系：necati@voltagent.dev
-
-<br/>
-
-<div align="center">
-
-<a href="#your-link-here">
-<img src="https://placehold.co/800x120/1a1a2e/FFD700?text=Gold+Sponsor+&font=montserrat" alt="Gold Sponsor" width="800" height="120" />
-</a>
-
-<sub>Your product description here — a one-liner about what you offer to OpenClaw developers.</sub>
-
-<br/>
-
-<a href="#your-link-here"><img src="https://placehold.co/380x90/1a1a2e/C0C0C0?text=Silver+Sponsor&font=montserrat" alt="Silver Sponsor" width="380" height="90" /></a>&nbsp;&nbsp;&nbsp;<a href="#your-link-here"><img src="https://placehold.co/380x90/1a1a2e/C0C0C0?text=Silver+Sponsor&font=montserrat" alt="Silver Sponsor" width="380" height="90" /></a>
-
-<sub>Short description here.</sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sub>Short description here.</sub>
-
-<br/>
-<a href="#your-link-here"><img src="https://placehold.co/220x60/1a1a2e/CD7F32?text=Bronze+Sponsor&font=montserrat" alt="Bronze Sponsor" width="220" height="60" /></a>&nbsp;&nbsp;<a href="#your-link-here"><img src="https://placehold.co/220x60/1a1a2e/CD7F32?text=Bronze+Sponsor&font=montserrat" alt="Bronze Sponsor" width="220" height="60" /></a>&nbsp;&nbsp;<a href="#your-link-here"><img src="https://placehold.co/220x60/1a1a2e/CD7F32?text=Bronze+Sponsor&font=montserrat" alt="Bronze Sponsor" width="220" height="60" /></a>
-
-</div>
-
-<br/>
-
 <details open>
 <summary><h3 style="display:inline">Coding Agents & IDEs</h3></summary>
 
