@@ -1,12 +1,4 @@
 <div align="center">
-
-<a href="https://github.com/VoltAgent/voltagent">
-<img width="1500" height="500" alt="social" src="https://github.com/user-attachments/assets/a6f310af-8fed-4766-9649-b190575b399d" />
-</a>
-
-<br/>
-<br/>
-
 <div align="center">
     <strong>发现 2868 个社区构建的 OpenClaw Skills，按分类整理，面向中文开发者友好阅读。
     </strong>
@@ -15,15 +7,10 @@
 </div>
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-<a href="https://github.com/VoltAgent/voltagent">
-  <img alt="VoltAgent" src="https://cdn.voltagent.dev/website/logo/logo-2-svg.svg" height="20" />
-</a> 
 
-[![AI Agent Papers](https://img.shields.io/badge/AI%20Agent-Research%20Papers-b31b1b)](https://github.com/VoltAgent/awesome-ai-agent-papers)
 [![Skills Count](https://img.shields.io/badge/skills-2868-blue?style=flat-square)](#table-of-contents)
-[![Last Update](https://img.shields.io/github/last-commit/VoltAgent/awesome-openclaw-skills-CN?label=Last%20update&style=flat-square)](https://github.com/VoltAgent/awesome-openclaw-skills-CN/pulls?q=is%3Apr+is%3Amerged+sort%3Aupdated-desc)
-[![Discord](https://img.shields.io/discord/1361559153780195478.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://s.voltagent.dev/discord)
-[![GitHub forks](https://img.shields.io/github/forks/VoltAgent/awesome-openclaw-skills-CN?style=social)](https://github.com/VoltAgent/awesome-openclaw-skills-CN/network/members)
+[![Last Update](https://img.shields.io/github/last-commit/AIPMAndy/awesome-openclaw-skills-CN?label=Last%20update&style=flat-square)](https://github.com/AIPMAndy/awesome-openclaw-skills-CN/pulls?q=is%3Apr+is%3Amerged+sort%3Aupdated-desc)
+[![GitHub forks](https://img.shields.io/github/forks/AIPMAndy/awesome-openclaw-skills-CN?style=social)](https://github.com/AIPMAndy/awesome-openclaw-skills-CN/network/members)
 </div>
 
 # Awesome OpenClaw Skills CN
@@ -111,7 +98,7 @@ npm config set registry https://registry.npmjs.org
 
 **想添加 Skill？** 本列表只收录已经发布到 `github.com/openclaw/skills` 的技能，不接受个人仓库、gist 或其他外部链接。请先发布到官方仓库，再按 [CONTRIBUTING.md](CONTRIBUTING.md) 提交。
 
-如果你认为列表中的某个 Skill 存在安全问题，请在 [issues](https://github.com/VoltAgent/awesome-openclaw-skills-CN/issues) 提交反馈。
+如果你认为列表中的某个 Skill 存在安全问题，请在 [issues](https://github.com/AIPMAndy/awesome-openclaw-skills-CN/issues) 提交反馈。
 
 ## Table of Contents
 
@@ -128,8 +115,6 @@ npm config set registry https://registry.npmjs.org
 | [Search & Research](#search--research) (253) | [Transportation](#transportation) (76) | [Gaming](#gaming) (61) |
 | [Clawdbot Tools](#clawdbot-tools) (120) | [Personal Development](#personal-development) (56) | [Agent-to-Agent Protocols](#agent-to-agent-protocols) (18) |
 | [CLI Utilities](#cli-utilities) (129) | [Health & Fitness](#health--fitness) (55) | |
-
-
 ## OpenClaw Deployment Stack（部署生态）
 
  OpenClaw Agent 的部署、托管与交付服务信息。
@@ -155,19 +140,11 @@ npm config set registry https://registry.npmjs.org
 <sub>Short description here.</sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sub>Short description here.</sub>
 
 <br/>
-
-
-
-
 <a href="#your-link-here"><img src="https://placehold.co/220x60/1a1a2e/CD7F32?text=Bronze+Sponsor&font=montserrat" alt="Bronze Sponsor" width="220" height="60" /></a>&nbsp;&nbsp;<a href="#your-link-here"><img src="https://placehold.co/220x60/1a1a2e/CD7F32?text=Bronze+Sponsor&font=montserrat" alt="Bronze Sponsor" width="220" height="60" /></a>&nbsp;&nbsp;<a href="#your-link-here"><img src="https://placehold.co/220x60/1a1a2e/CD7F32?text=Bronze+Sponsor&font=montserrat" alt="Bronze Sponsor" width="220" height="60" /></a>
 
 </div>
 
 <br/>
-
-
-
-
 
 <details open>
 <summary><h3 style="display:inline">Coding Agents & IDEs</h3></summary>
@@ -3250,21 +3227,6 @@ npm config set registry https://registry.npmjs.org
 </details>
 
 <br/>
-
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=VoltAgent/awesome-openclaw-skills-CN&type=Date)](https://star-history.com/#VoltAgent/awesome-openclaw-skills-CN&Date)
-
-## 🤝 Contributing
-
-欢迎贡献！详细规则请查看 [CONTRIBUTING.md](CONTRIBUTING.md)。
-
-- 通过 PR 提交新 Skill
-- 修正或完善已有条目
-
-> **说明：** 请不要提交刚创建不久、尚无真实使用场景的 Skill。当前更关注被社区采用、经实际验证的高质量条目。
-
 ## License
 
 MIT License - 详见 [LICENSE](LICENSE)
