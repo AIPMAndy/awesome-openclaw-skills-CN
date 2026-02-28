@@ -8,7 +8,7 @@
 <br/>
 
 <div align="center">
-    <strong>Discover 2868 community-built OpenClaw skills, organized by category.
+    <strong>发现 2868 个社区构建的 OpenClaw Skills，按分类整理，面向中文开发者友好阅读。
     </strong>
     <br />
     <br />
@@ -21,76 +21,97 @@
 
 [![AI Agent Papers](https://img.shields.io/badge/AI%20Agent-Research%20Papers-b31b1b)](https://github.com/VoltAgent/awesome-ai-agent-papers)
 [![Skills Count](https://img.shields.io/badge/skills-2868-blue?style=flat-square)](#table-of-contents)
-[![Last Update](https://img.shields.io/github/last-commit/VoltAgent/awesome-clawdbot-skills?label=Last%20update&style=flat-square)](https://github.com/VoltAgent/awesome-clawdbot-skills/pulls?q=is%3Apr+is%3Amerged+sort%3Aupdated-desc)
+[![Last Update](https://img.shields.io/github/last-commit/VoltAgent/awesome-openclaw-skills-CN?label=Last%20update&style=flat-square)](https://github.com/VoltAgent/awesome-openclaw-skills-CN/pulls?q=is%3Apr+is%3Amerged+sort%3Aupdated-desc)
 [![Discord](https://img.shields.io/discord/1361559153780195478.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://s.voltagent.dev/discord)
-[![GitHub forks](https://img.shields.io/github/forks/VoltAgent/awesome-clawdbot-skills?style=social)](https://github.com/VoltAgent/awesome-clawdbot-skills/network/members)
+[![GitHub forks](https://img.shields.io/github/forks/VoltAgent/awesome-openclaw-skills-CN?style=social)](https://github.com/VoltAgent/awesome-openclaw-skills-CN/network/members)
 </div>
 
-# Awesome OpenClaw Skills
+# Awesome OpenClaw Skills CN
 
-OpenClaw (previously known as Moltbot, originally Clawdbot... identity crisis included, no extra charge) is a locally-running AI assistant that operates directly on your machine. Skills extend its capabilities, allowing it to interact with external services, automate workflows, and perform specialized tasks. This collection helps you discover and install the right skills for your needs.
+> 中文版仓库名：`awesome-openclaw-skills-CN`
+>
+> 说明：本项目基于 [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) 翻译制作，原项目采用 MIT 开源协议。
 
-Skills in this list are sourced from [ClawHub](https://www.clawhub.ai/) (OpenClaw's public skills registry) and categorized for easier discovery.
+OpenClaw（曾用名 Moltbot / Clawdbot）是一个运行在本地机器上的 AI 助手。Skill 可以扩展它的能力，让它连接外部服务、自动化工作流并执行专用任务。
 
+本仓库是面向中文开发者的友好版本：
 
+- 中文化了说明文档、安装步骤与贡献流程
+- 保留了原始技能条目（英文名称与链接）以确保可检索性
+- 增加了更贴近中文开发者习惯的使用建议
 
-## Installation
+技能数据来源于 [ClawHub](https://www.clawhub.ai/)（OpenClaw 官方公开技能注册表），并按照分类整理。
 
-### ClawHub CLI
+> 说明：为保证与上游同步，技能条目名称与描述大多保留原文；你可以直接用浏览器翻译或让 AI 助手做二次解释。
 
-> **Note:** As you probably know, they keep renaming things. This reflects the current official docs. We'll update this when they rename it again.
+## 安装
+
+### ClawHub CLI（推荐）
+
+> 备注：OpenClaw 生态命名经常变动，以下命令以当前官方文档为准。
 
 ```bash
 npx clawhub@latest install <skill-slug>
 ```
 
-### Manual Installation
+### 手动安装
 
-Copy the skill folder to one of these locations:
+将 skill 文件夹复制到以下任一目录：
 
-| Location | Path |
-|----------|------|
-| Global | `~/.openclaw/skills/` |
-| Workspace | `<project>/skills/` |
+| 位置 | 路径 |
+|------|------|
+| 全局 | `~/.openclaw/skills/` |
+| 当前工作区 | `<project>/skills/` |
 
-Priority: Workspace > Local > Bundled
+优先级：`Workspace > Local > Bundled`
 
-### Alternative
+### 中国开发者网络优化（可选）
 
-You can also paste the skill's GitHub repository link directly into your assistant's chat and ask it to use it. The assistant will handle the setup automatically in the background.
+如果 `npx` 速度较慢，可使用国内 npm 镜像：
 
+```bash
+npm config set registry https://registry.npmmirror.com
+```
 
-## Why This List Exists?
+恢复官方源：
 
-OpenClaw's public registry (ClawHub) hosts **5,705 community-built skills** as of February 7, 2026. This awesome list has **2,868 skills**. Here's what we filtered out:
+```bash
+npm config set registry https://registry.npmjs.org
+```
 
-| Filter | Excluded |
+### 对话式安装（替代方式）
+
+你也可以把 Skill 的 GitHub 链接直接发给 AI 助手，并让它“使用这个 Skill”，助手通常会在后台自动完成安装配置。
+
+## 为什么有这个列表？
+
+截至 **2026 年 2 月 7 日**，OpenClaw 官方公开注册表（ClawHub）包含 **5,705** 个社区技能；本列表收录 **2,868** 个。以下是过滤掉的部分：
+
+| 过滤项 | 排除数量 |
 |--------|----------|
-| Possibly spam — bulk accounts, bot accounts, test/junk | 1,180 |
+| 疑似垃圾内容（批量账号、机器人账号、测试/垃圾条目） | 1,180 |
 | Crypto / Blockchain / Finance / Trade | 672 |
-| Duplicate / Similar name | 492 |
-| Malicious — identified by security audits published by researchers (excluding VirusTotal) | 396 |
-| Non-English — descriptions not in English | 8 |
-| **Total not taken from OpenClaw's official skill registry** | **2,748** |
+| 重复或近似名称 | 492 |
+| 恶意条目（来自研究者公开安全审计，不含 VirusTotal） | 396 |
+| 非英文描述 | 8 |
+| **未纳入本列表总计** | **2,748** |
 
+## 安全提示
 
-## Security Notice
+本列表是**人工整理（curated）而非安全审计（audited）**。技能在收录后仍可能被原作者更新、替换或修改。
 
-Skills in this list are **curated, not audited**. They may be updated, modified, or replaced by their original maintainers at any time after being added here.
+在安装和使用任何 Skill 前，请自行评估安全风险并核验来源。OpenClaw 与 VirusTotal 有合作，你可以在 ClawHub 的技能详情页查看对应扫描结果。
 
-Before installing or using any Agent Skill, review potential security risks and validate the source yourself. OpenClaw has a **VirusTotal partnership** that provides security scanning for skills, visit a skill's page on ClawHub and check the VirusTotal report to see if it's flagged as risky.
-
-**Recommended tools:**
+**推荐工具：**
 
 - [Snyk Skill Security Scanner](https://github.com/snyk/agent-scan)
 - [Agent Trust Hub](https://ai.gendigital.com/agent-trust-hub)
 
-> Agent skills can include prompt injections, tool poisoning, hidden malware payloads, or unsafe data handling patterns. Always review the source code before installing and use skills at your own discretion.
+> Skill 可能包含提示词注入、工具投毒、隐藏恶意载荷或不安全数据处理逻辑。生产环境使用前务必审查源码。
 
-**Want to add a skill?** This list only includes skills that are **already published** in the `github.com/openclaw/skills` repository. We do not accept links to personal repos, gists, or any other external source. If your skill isn't in the OpenClaw skills repo yet, publish it there first. See [CONTRIBUTING.md](CONTRIBUTING.md) for details.
+**想添加 Skill？** 本列表只收录已经发布到 `github.com/openclaw/skills` 的技能，不接受个人仓库、gist 或其他外部链接。请先发布到官方仓库，再按 [CONTRIBUTING.md](CONTRIBUTING.md) 提交。
 
-If you believe a skill in this list should be flagged or has a security concern, please [open an issue](https://github.com/VoltAgent/awesome-clawdbot-skills/issues) so we can review it.
-
+如果你认为列表中的某个 Skill 存在安全问题，请在 [issues](https://github.com/VoltAgent/awesome-openclaw-skills-CN/issues) 提交反馈。
 
 ## Table of Contents
 
@@ -109,13 +130,13 @@ If you believe a skill in this list should be flagged or has a security concern,
 | [CLI Utilities](#cli-utilities) (129) | [Health & Fitness](#health--fitness) (55) | |
 
 
-## OpenClaw Deployment Stack
+## OpenClaw Deployment Stack（部署生态）
 
- Setup, hosting, and deployment providers for OpenClaw agents.
+ OpenClaw Agent 的部署、托管与交付服务信息。
 
-**Sponsor spots are reserved for hosting, deployment, and setup providers serving OpenClaw developers & users.**
+**赞助位面向为 OpenClaw 开发者提供托管、部署与基础设施服务的团队。**
 
-📩 For sponsorship inquiries, reach out at necati@voltagent.dev
+📩 赞助合作请联系：necati@voltagent.dev
 
 <br/>
 
@@ -3233,21 +3254,21 @@ If you believe a skill in this list should be flagged or has a security concern,
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=VoltAgent/awesome-openclaw-skills&type=Date)](https://star-history.com/#VoltAgent/awesome-openclaw-skills&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=VoltAgent/awesome-openclaw-skills-CN&type=Date)](https://star-history.com/#VoltAgent/awesome-openclaw-skills-CN&Date)
 
 ## 🤝 Contributing
 
-We welcome contributions! See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
+欢迎贡献！详细规则请查看 [CONTRIBUTING.md](CONTRIBUTING.md)。
 
-- Submit new skills via PR
-- Improve existing definitions
+- 通过 PR 提交新 Skill
+- 修正或完善已有条目
 
-> **Note:** Please don't submit skills you created 3 hours ago. We're now focusing on community-adopted skills, especially those published by development teams and proven in real-world usage. Quality over quantity.
+> **说明：** 请不要提交刚创建不久、尚无真实使用场景的 Skill。当前更关注被社区采用、经实际验证的高质量条目。
 
 ## License
 
-MIT License - see [LICENSE](LICENSE)
+MIT License - 详见 [LICENSE](LICENSE)
 
-Skills in this list are sourced from the OpenClaw official skills repo and categorized for easier discovery. Skills listed here are created and maintained by their respective authors, not by us. We do not audit, endorse, or guarantee the security or correctness of listed projects. They are not security-audited and should be reviewed before production use.
+本列表技能来源于 OpenClaw 官方 skills 仓库，并按分类整理以便检索。所有 Skill 由各自作者维护，并非由本仓库维护者开发。我们不对任何条目的安全性、正确性或可用性作担保。
 
-If you find an issue with a listed skill or want your skill removed, please open an issue and we'll take care of it promptly.
+若你发现某条目存在问题，或希望移除你的 Skill，请提交 issue，我们会尽快处理。
