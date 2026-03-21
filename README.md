@@ -3204,7 +3204,7 @@ npm config set registry https://registry.npmjs.org
 <br/>
 ## License
 
-MIT License - 详见 [LICENSE](LICENSE)
+Apache 2.0 License - 详见 [LICENSE](LICENSE)
 
 本列表技能来源于 OpenClaw 官方 skills 仓库，并按分类整理以便检索。所有 Skill 由各自作者维护，并非由本仓库维护者开发。我们不对任何条目的安全性、正确性或可用性作担保。
 
