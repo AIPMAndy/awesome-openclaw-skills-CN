@@ -1795,6 +1795,7 @@ npm config set registry https://registry.npmjs.org
 - [vikunja-fast](https://github.com/openclaw/skills/tree/main/skills/tmigone/vikunja-fast/SKILL.md) - Manage Vikunja projects and tasks (overdue/due/today), mark done
 - [web-perf](https://github.com/openclaw/skills/tree/main/skills/elithrar/web-perf/SKILL.md) - Analyzes web performance using Chrome DevTools.
 - [withings-health](https://github.com/openclaw/skills/tree/main/skills/hisxo/withings-health/SKILL.md) - Fetches health data from the Withings API including weight
+- [management-brain](https://github.com/openclaw/skills/tree/main/skills/tonypk/management-brain/SKILL.md) - AI 管理中间件 — 9位导师哲学、6套文化包，通过 Telegram/Slack 管理团队每日汇报、情绪分析与自动跟催。
 
 </details>
 
