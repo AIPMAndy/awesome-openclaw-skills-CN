@@ -115,7 +115,7 @@ npm config set registry https://registry.npmjs.org
 | [Moltbook](#moltbook) (51) | [AI & LLMs](#ai--llms) (287) | [Smart Home & IoT](#smart-home--iot) (56) |
 | [Web & Frontend Development](#web--frontend-development) (202) | [Data & Analytics](#data--analytics) (46) | [Shopping & E-commerce](#shopping--e-commerce) (51) |
 | [DevOps & Cloud](#devops--cloud) (212) | [Finance](#finance) (22) | [Calendar & Scheduling](#calendar--scheduling) (50) |
-| [Browser & Automation](#browser--automation) (139) | [Media & Streaming](#media--streaming) (80) | [PDF & Documents](#pdf--documents) (67) |
+| [Browser & Automation](#browser--automation) (139) | [Media & Streaming](#media--streaming) (81) | [PDF & Documents](#pdf--documents) (67) |
 | [Image & Video Generation](#image--video-generation) (60) | [Notes & PKM](#notes--pkm) (100) | [Self-Hosted & Automation](#self-hosted--automation) (25) |
 | [Apple Apps & Services](#apple-apps--services) (35) | [iOS & macOS Development](#ios--macos-development) (17) | [Security & Passwords](#security--passwords) (64) |
 | [Search & Research](#search--research) (253) | [Transportation](#transportation) (76) | [Gaming](#gaming) (61) |
@@ -2217,6 +2217,7 @@ npm config set registry https://registry.npmjs.org
 - [transcribee](https://github.com/openclaw/skills/tree/main/skills/itsfabioroma/transcribee/SKILL.md) - Transcribe YouTube videos and local audio/video files
 - [tube-cog](https://github.com/openclaw/skills/tree/main/skills/nitishgargiitd/tube-cog/SKILL.md) - YouTube content creation powered by CellCog.
 - [tubeclaw](https://github.com/openclaw/skills/tree/main/skills/snail3d/tubeclaw/SKILL.md) - Analyze any YouTube video, extract key insights, remove fluff, and provide.
+- [tubeify](https://github.com/openclaw/skills/tree/main/skills/esokullu/tubeify/SKILL.md) - AI video editor that removes pauses, filler words, and dead air.
 - [tubescribe](https://github.com/openclaw/skills/tree/main/skills/matusvojtek/tubescribe/SKILL.md) - YouTube video summarizer with speaker detection, formatted
 - [vap-media](https://github.com/openclaw/skills/tree/main/skills/elestirelbilinc-sketch/vap-media/SKILL.md) - AI image, video, and music generation.
 - [vehicle-tracker](https://github.com/openclaw/skills/tree/main/skills/huchengtw/vehicle-tracker/SKILL.md) - Track vehicle expenses (gas, maintenance, parts) in Google
