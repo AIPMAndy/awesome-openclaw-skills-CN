@@ -3211,3 +3211,5 @@ Apache 2.0 License - 详见 [LICENSE](LICENSE)
 本列表技能来源于 OpenClaw 官方 skills 仓库，并按分类整理以便检索。所有 Skill 由各自作者维护，并非由本仓库维护者开发。我们不对任何条目的安全性、正确性或可用性作担保。
 
 若你发现某条目存在问题，或希望移除你的 Skill，请提交 issue，我们会尽快处理。
+
+- [x-twitter-scraper](https://github.com/Xquik-dev/x-twitter-scraper) - X (Twitter) data platform for AI agents — 122 REST API endpoints, 2 MCP tools, 23 extraction types. Search tweets, look up users, post, monitor accounts. API key auth.
