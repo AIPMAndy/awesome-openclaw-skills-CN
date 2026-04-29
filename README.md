@@ -3,7 +3,7 @@
     <br />
     <br />
 
-[![Skills Count](https://img.shields.io/badge/skills-2868-blue?style=flat-square)](#table-of-contents)
+[![Skills Count](https://img.shields.io/badge/skills-2869-blue?style=flat-square)](#table-of-contents)
 [![Last Update](https://img.shields.io/github/last-commit/AIPMAndy/awesome-openclaw-skills-CN?label=Last%20update&style=flat-square)](https://github.com/AIPMAndy/awesome-openclaw-skills-CN/pulls?q=is%3Apr+is%3Amerged+sort%3Aupdated-desc)
 [![GitHub forks](https://img.shields.io/github/forks/AIPMAndy/awesome-openclaw-skills-CN?style=social)](https://github.com/AIPMAndy/awesome-openclaw-skills-CN/network/members)
 </div>
@@ -720,6 +720,7 @@ npm config set registry https://registry.npmjs.org
 - [podcast-generation](https://github.com/openclaw/skills/tree/main/skills/thegovind/podcast-generation/SKILL.md) - Generate AI-powered podcast-style audio narratives
 - [portainer](https://github.com/openclaw/skills/tree/main/skills/asteinberger/portainer/SKILL.md) - Control Docker containers and stacks via Portainer API.
 - [premium-domains](https://github.com/openclaw/skills/tree/main/skills/julianengel/premium-domains/SKILL.md) - Search for premium domains for sale across Afternic
+- [pressreleases.online](https://pressreleases.online) - AI press release drafting and publishing — submit a URL + notes, get a live release page with RSS and sitemap. Free, no API key needed.
 - [principle-comparator](https://github.com/openclaw/skills/tree/main/skills/leegitw/principle-comparator/SKILL.md) - Compare two sources to find shared and divergent
 - [proactive-research](https://github.com/openclaw/skills/tree/main/skills/robbyczgw-cla/proactive-research/SKILL.md) - Monitor topics of interest and proactively alert
 - [proxmox](https://github.com/openclaw/skills/tree/main/skills/weird-aftertaste/proxmox/SKILL.md) - Manage Proxmox VE clusters via REST API.
