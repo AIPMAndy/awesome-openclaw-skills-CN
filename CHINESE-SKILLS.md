@@ -69,6 +69,14 @@
 |-------|------|
 | [mcd-cn](https://github.com/openclaw/skills/tree/main/skills/ryanchen01/mcd-cn/SKILL.md) | 查询麦当劳中国活动日历、优惠券 |
 
+## 🛒 跨境电商（CN→US）
+
+| Skill | 描述 |
+|-------|------|
+| [cn-amazon-listing-auditor](https://github.com/openclaw/skills/tree/main/skills/kiwi-phantomworks/cn-amazon-listing-auditor/SKILL.md) | 亚马逊 listing 审计——自动检测翻译错误、文化误区、关键词缺失，帮中国卖家提升海外转化率 |
+| [cn-to-en-listing-writer](https://github.com/openclaw/skills/tree/main/skills/kiwi-phantomworks/cn-to-en-listing-writer/SKILL.md) | 将中文产品资料（1688 页面、供应商规格）转化为 3 套完整英文 Amazon listing（标题 + 5 条卖点 + 描述） |
+| [listing-bridge-free-optimizer](https://github.com/openclaw/skills/tree/main/skills/kiwi-phantomworks/listing-bridge-free-optimizer/SKILL.md) | 免费亚马逊 listing 优化器——跨境卖家专用，将中文产品信息改写为英文买家友好的标题与卖点 |
+
 ---
 
 > 💡 发现了其他适合中文开发者的 Skill？欢迎 PR 补充！
