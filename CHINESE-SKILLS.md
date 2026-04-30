@@ -29,6 +29,8 @@
 | Skill | 描述 |
 |-------|------|
 | [weread](https://github.com/openclaw/skills/tree/main/skills/z233/weread/SKILL.md) | 获取微信读书笔记和划线 |
+| [wechat-manager](https://github.com/clawto/wechat-manager) | 💬 微信智能管家：消息管理、自动回复、联系人管理、聊天分析 |
+| [alipay-wechat-pay](https://github.com/clawto/alipay-wechat-pay) | 💳 支付宝/微信支付账单解析、智能分类、月度报告 |
 
 ### 内容平台
 | Skill | 描述 |
@@ -36,6 +38,8 @@
 | [xiaohongshu-mcp](https://github.com/openclaw/skills/tree/main/skills/pxfeng/xiaohongshu-mcp/SKILL.md) | 上传图片/视频到小红书创作者平台 |
 | [zhihu](https://github.com/openclaw/skills/tree/main/skills/keepwonder/zhihu/SKILL.md) | 知乎 AI Bot 集成 |
 | [yt-dlp-downloader-skill](https://github.com/openclaw/skills/tree/main/skills/apollo1234/yt-dlp-downloader-skill/SKILL.md) | 下载 YouTube、Bilibili 等视频 |
+| [content-creator](https://github.com/clawto/content-creator) | 🎨 多平台热点聚合、爆款标题生成、最佳发布时间 |
+| [bilibili-zhihu-ops](https://github.com/clawto/bilibili-zhihu-ops) | 📺 B站/知乎自动化运营：视频数据分析、弹幕词云、内容优化 |
 
 ## 🔍 搜索服务
 
@@ -62,12 +66,28 @@
 | Skill | 描述 |
 |-------|------|
 | [clscli](https://github.com/openclaw/skills/tree/main/skills/dbwang0130/clscli/SKILL.md) | 查询腾讯云 CLS 日志 |
+| [tencent-aliyun-cloud](https://github.com/clawto/tencent-aliyun-cloud) | ☁️ 腾讯云/阿里云统一管理：服务器、域名、费用到期监控 |
 
 ## 🍔 生活服务
 
 | Skill | 描述 |
 |-------|------|
 | [mcd-cn](https://github.com/openclaw/skills/tree/main/skills/ryanchen01/mcd-cn/SKILL.md) | 查询麦当劳中国活动日历、优惠券 |
+
+## 💰 金融理财
+
+| Skill | 描述 |
+|-------|------|
+| [crypto-monitor](https://github.com/clawto/crypto-monitor) | 🪙 加密货币实时行情、巨鲸追踪、热门代币、空投雷达 |
+| [stock-trading](https://github.com/clawto/stock-trading) | 📈 A股/港股/美股行情、龙虎榜、北向资金、板块分析 |
+| [defi-yield](https://github.com/clawto/defi-yield) | 🌾 DeFi收益聚合、跨链APY对比、无常损失计算 |
+| [money-toolkit](https://github.com/clawto/money-toolkit) | 💰 AI赚钱工具箱：复利计算、跨所套利、Gas监控 |
+
+## 🌍 跨境电商
+
+| Skill | 描述 |
+|-------|------|
+| [cross-border-ecommerce](https://github.com/clawto/cross-border-ecommerce) | Amazon/AliExpress/Shopee 选品分析、FBA费用精算 |
 
 ---
 
