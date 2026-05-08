@@ -20,6 +20,7 @@
 - **社区共建**：希望更多中文开发者参与 AI Agent 生态建设
 
 📖 **特色内容：**
+- [BytesAgain](https://bytesagain.com) - 搜索6万+个AI Agent技能，支持MCP SSE和REST API接入，支持中文等7种语言搜索，免费无需API Key。https://bytesagain.com/mcp
 - [🇨🇳 国产大模型接入指南](./CHINESE-MODELS.md) — DeepSeek / 通义千问 / GLM / Moonshot / 豆包
 - [🇨🇳 中文开发者推荐 Skills](./CHINESE-SKILLS.md) — 飞书 / 企业微信 / 小红书 / 知乎 / B站
 
