@@ -1253,6 +1253,7 @@ npm config set registry https://registry.npmjs.org
 - [x-search](https://github.com/openclaw/skills/tree/main/skills/tzannetosgiannis/x-search/SKILL.md) - AI-powered X/Twitter search for real-time trends, breaking news
 - [x-twitter](https://github.com/openclaw/skills/tree/main/skills/annettemekuro30/x-twitter/SKILL.md) - Interact with Twitter/X — read tweets, search, post
 - [x-twitter2](https://github.com/openclaw/skills/tree/main/skills/annettemekuro30) - Interact with Twitter/X — read tweets, search, post
+- [x-twitter-scraper](https://github.com/Xquik-dev/x-twitter-scraper) - X (Twitter) 全功能数据平台。122 个 API 端点、2 个 MCP 工具、23 种提取类型。搜索推文、查看用户、发帖、监控账号。API Key 认证，$0.00015/次。
 - [xai-search](https://github.com/openclaw/skills/tree/main/skills/aydencook03/xai-search/SKILL.md) - Search X/Twitter and the web in real-time using xAI's Grok API
 - [xtrends](https://github.com/openclaw/skills/tree/main/skills/jordanprater/xtrends/SKILL.md) - Search and analyze trending topics on X (Twitter).
 - [youdotcom-cli](https://github.com/openclaw/skills/tree/main/skills/edwardirby/youdotcom-cli/SKILL.md) - Search the web, generate fast AI answers with verifiable
