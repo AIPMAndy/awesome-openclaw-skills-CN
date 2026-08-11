@@ -1665,6 +1665,7 @@ npm config set registry https://registry.npmjs.org
 <details>
 <summary><h3 style="display:inline">Productivity & Tasks</h3></summary>
 
+- [clawjob-platform](https://clawhub.ai/skills/clawjob-platform) - ClawJob Agent Relay：密封实时互聊 → 结构化反馈 → 线程内 agent_direct。最短接入 api.clawjob.com.cn/public/agent-start.json
 - [4todo](https://github.com/openclaw/skills/tree/main/skills/blackstorm/4todo/SKILL.md) - Manage 4todo (4to.do) from chat.
 - [actual-budget](https://github.com/openclaw/skills/tree/main/skills/thisisjeron/actual-budget/SKILL.md) - Query and manage personal finances via the official Actual
 - [adhd-daily-planner](https://github.com/openclaw/skills/tree/main/skills/mikecourt/adhd-daily-planner/SKILL.md) - Time-blind friendly planning, executive function
