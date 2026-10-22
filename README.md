@@ -10,9 +10,13 @@
 
 # Awesome OpenClaw Skills CN
 
+**想找 OpenClaw Skills 中文资料？** 这里把 ClawHub 上 2,868 个社区 Skills 按分类整理好，还附了国产大模型（DeepSeek、通义千问、GLM、Moonshot、豆包）接入指南和中文开发者推荐 Skills。
+
+*English: a curated, Chinese-friendly list of 2,868 OpenClaw skills, with guides for connecting Chinese LLMs.*
+
 ## 👋 关于本项目
 
-**我是 Andy**，前腾讯/百度 AI 产品专家，现专注于 AI 商业战略顾问与 AI Agent 生态研究。
+**我是 AI 酋长 Andy（Andy Liu，GitHub/X @AIPMAndy）**：前腾讯/百度 AI 产品专家，大模型独角兽前 VP，现专注 AI + 产品方法论创业，也一直在研究 AI Agent 生态。
 
 做这个中文化项目的初衷：
 - **降低门槛**：让中文开发者无需翻墙、无需啃英文文档，快速上手 OpenClaw
@@ -105,6 +109,28 @@ npm config set registry https://registry.npmjs.org
 **想添加 Skill？** 本列表只收录已经发布到 `github.com/openclaw/skills` 的技能，不接受个人仓库、gist 或其他外部链接。请先发布到官方仓库，再按 [CONTRIBUTING.md](CONTRIBUTING.md) 提交。
 
 如果你认为列表中的某个 Skill 存在安全问题，请在 [issues](https://github.com/AIPMAndy/awesome-openclaw-skills-CN/issues) 提交反馈。
+
+## 常见问题 FAQ
+
+### OpenClaw 是什么？
+
+OpenClaw（曾用名 Moltbot / Clawdbot）是运行在本地机器上的 AI 助手。Skill 可以扩展它的能力，让它连接外部服务、自动化工作流。
+
+### OpenClaw Skills 怎么安装？
+
+推荐用 ClawHub CLI：`npx clawhub@latest install <skill-slug>`。也可以把 skill 文件夹复制到 `~/.openclaw/skills/` 或项目里的 `skills/` 目录。
+
+### 国内装得慢怎么办？
+
+可以把 npm 源换成国内镜像 `https://registry.npmmirror.com`。接入国产模型看 [国产大模型接入指南](./CHINESE-MODELS.md)。
+
+### 这里的 Skills 安全吗？
+
+本列表是人工整理，没有做安全审计。装之前请自己核验来源，可以在 ClawHub 的技能详情页看 VirusTotal 扫描结果，也可以先用 [SafeSkill](https://github.com/AIPMAndy/safeskill) 扫一遍。
+
+### 为什么没有收录 ClawHub 上的全部 Skills？
+
+截至 2026 年 2 月 7 日，ClawHub 有 5,705 个社区技能。本列表过滤掉了疑似垃圾、加密货币和金融交易、重复和恶意条目，过滤明细见上面的 [为什么有这个列表？](#为什么有这个列表)。
 
 ## Table of Contents
 
@@ -3206,6 +3232,27 @@ npm config set registry https://registry.npmjs.org
 </details>
 
 <br/>
+<!-- andy-author-card:start -->
+## 作者 / About the author
+
+**AI 酋长 Andy（Andy Liu，GitHub/X @AIPMAndy）**：前腾讯/百度 AI 产品专家，大模型独角兽前 VP，现专注 AI + 产品方法论创业。
+
+可以找我聊求职咨询、AI 增长和副业陪跑，服务范围和费用先沟通确认。
+
+微信 `AIPMAndy`（备注「OpenClaw」）· [X @AIPMAndy](https://x.com/AIPMAndy) · [Telegram @AIPMAndy](https://t.me/AIPMAndy) · [个人官网 metaver.vip](https://metaver.vip/) · [Grok Bot 中文攻略](https://aipmandy.github.io/grok-bot-handbook/)
+
+*AI Chief Andy (Andy Liu, @AIPMAndy on GitHub and X) is a former Tencent and Baidu AI product expert and former VP at an LLM unicorn, now a serial entrepreneur focused on AI and product methodology.*
+
+### 作者的其他项目
+
+- [SafeSkill](https://github.com/AIPMAndy/safeskill)：装 AI Skill 之前，先扫危险命令、提示注入和密钥泄露
+- [goskill](https://github.com/AIPMAndy/goskill)：长任务执行助手：先定成功标准，再按标准验收
+- [FreeToken](https://github.com/AIPMAndy/FreeToken)：免费 AI API、免费大模型 API 额度合集
+- [AndySoul](https://github.com/AIPMAndy/AndySoul)：CLAUDE.md / AGENTS.md 规则模板，让 Claude Code、Codex、Cursor 少犯错
+- [DNA Memory](https://github.com/AIPMAndy/dna-memory)：Claude Code、Codex 共用的本地 AI Agent 记忆 MCP
+
+<!-- andy-author-card:end -->
+
 ## License
 
 Apache 2.0 License - 详见 [LICENSE](LICENSE)
