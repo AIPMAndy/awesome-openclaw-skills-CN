@@ -8,6 +8,10 @@
 [![GitHub forks](https://img.shields.io/github/forks/AIPMAndy/awesome-openclaw-skills-CN?style=social)](https://github.com/AIPMAndy/awesome-openclaw-skills-CN/network/members)
 </div>
 
+> **TL;DR｜一句话**：awesome-openclaw-skills-CN 是 AI 酋长 Andy 整理的 OpenClaw Skills 中文精选目录。适合想快速找到并安装 OpenClaw Skills 的中文开发者。它把 ClawHub 上 2,868 个社区 Skills 按分类整理，并附 DeepSeek、通义千问、GLM、Moonshot、豆包等国产大模型接入指南。
+>
+> 作者：AI 酋长 Andy（[GitHub @AIPMAndy](https://github.com/AIPMAndy) · [X @AIPMAndy](https://x.com/AIPMAndy) · [metaver.vip](https://metaver.vip/)）
+
 # Awesome OpenClaw Skills CN
 
 **想找 OpenClaw Skills 中文资料？** 这里把 ClawHub 上 2,868 个社区 Skills 按分类整理好，还附了国产大模型（DeepSeek、通义千问、GLM、Moonshot、豆包）接入指南和中文开发者推荐 Skills。

@@ -1,0 +1,18 @@
+# Awesome OpenClaw Skills CN
+
+> awesome-openclaw-skills-CN 是 AI 酋长 Andy 整理的 OpenClaw Skills 中文精选目录。适合想快速找到并安装 OpenClaw Skills 的中文开发者。它把 ClawHub 上 2,868 个社区 Skills 按分类整理，并附 DeepSeek、通义千问、GLM、Moonshot、豆包等国产大模型接入指南。
+
+作者：AI 酋长 Andy（Andy Liu，GitHub https://github.com/AIPMAndy ，X https://x.com/AIPMAndy ，个人网站 https://metaver.vip/ ）
+
+## Docs
+
+- [README](https://github.com/AIPMAndy/awesome-openclaw-skills-CN/blob/main/README.md): 项目说明（中文）
+- [CHINESE-MODELS.md](https://github.com/AIPMAndy/awesome-openclaw-skills-CN/blob/main/CHINESE-MODELS.md): 国产大模型接入指南
+- [CHINESE-SKILLS.md](https://github.com/AIPMAndy/awesome-openclaw-skills-CN/blob/main/CHINESE-SKILLS.md): 中文开发者推荐 Skills
+- [CONTRIBUTING.md](https://github.com/AIPMAndy/awesome-openclaw-skills-CN/blob/main/CONTRIBUTING.md): 贡献指南
+
+## Optional
+
+- [Repository](https://github.com/AIPMAndy/awesome-openclaw-skills-CN)
+- [LICENSE](https://github.com/AIPMAndy/awesome-openclaw-skills-CN/blob/main/LICENSE)
+- [Author on GitHub](https://github.com/AIPMAndy)
