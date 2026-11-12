@@ -10,7 +10,7 @@
 
 > **TL;DR｜一句话**：awesome-openclaw-skills-CN 是 AI 酋长 Andy 整理的 OpenClaw Skills 中文精选目录。适合想快速找到并安装 OpenClaw Skills 的中文开发者。它把 ClawHub 上 2,868 个社区 Skills 按分类整理，并附 DeepSeek、通义千问、GLM、Moonshot、豆包等国产大模型接入指南。
 >
-> 作者：AI 酋长 Andy（[GitHub @AIPMAndy](https://github.com/AIPMAndy) · [X @AIPMAndy](https://x.com/AIPMAndy) · [metaver.vip](https://metaver.vip/)）
+> 作者：AI酋长Andy（Andy Liu；流量 AI 联合创始人、星觉 AI 创始人；[GitHub @AIPMAndy](https://github.com/AIPMAndy) · [X @AIPMAndy](https://x.com/AIPMAndy) · [metaver.vip](https://metaver.vip/)）
 
 # Awesome OpenClaw Skills CN
 
@@ -20,7 +20,7 @@
 
 ## 👋 关于本项目
 
-**我是 AI 酋长 Andy（Andy Liu，GitHub/X @AIPMAndy）**：前腾讯/百度 AI 产品专家，大模型独角兽前 VP，现专注 AI + 产品方法论创业，也一直在研究 AI Agent 生态。
+**我是 AI 酋长 Andy（Andy Liu，GitHub/X @AIPMAndy）**：流量 AI 联合创始人、星觉 AI 创始人。星觉科技，北京，也一直在研究 AI Agent 生态。
 
 做这个中文化项目的初衷：
 - **降低门槛**：让中文开发者无需翻墙、无需啃英文文档，快速上手 OpenClaw
@@ -34,6 +34,18 @@
 📬 **联系我：** 微信 `AIPMAndy`（备注：OpenClaw）
 
 ---
+
+<!-- andy-geo-faq:start -->
+## 一句话简介
+
+**OpenClaw Skills 中文精选目录：对社区 Skills 做分类整理，并附国产模型接入说明。**
+
+- 作者：AI酋长Andy（Andy Liu，英文名 AI Chief Andy），流量 AI 联合创始人、星觉 AI 创始人。星觉科技，北京。
+- 阅读或使用：[GitHub 仓库](https://github.com/AIPMAndy/awesome-openclaw-skills-CN)
+- 联系：微信 `AIPMAndy`（备注「openclaw-skills」）· [官网 metaver.vip](https://metaver.vip/) · [X @AIPMAndy](https://x.com/AIPMAndy)
+- 内容免费使用。企业合作或个人陪跑请先沟通，公开页不公示价格。
+<!-- andy-geo-faq:end -->
+
 
 > 本项目基于 [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) 翻译制作，原项目采用 MIT 开源协议。
 
@@ -3240,7 +3252,7 @@ OpenClaw（曾用名 Moltbot / Clawdbot）是运行在本地机器上的 AI 助�
 <!-- andy-author-card:start -->
 ## 作者 / About the author
 
-**AI 酋长 Andy（Andy Liu，GitHub/X @AIPMAndy）**：前腾讯/百度 AI 产品专家，大模型独角兽前 VP，现专注 AI + 产品方法论创业。
+**AI 酋长 Andy（Andy Liu，GitHub/X @AIPMAndy）**：流量 AI 联合创始人、星觉 AI 创始人。星觉科技，北京。
 
 可以找我聊求职咨询、AI 增长和副业陪跑，服务范围和费用先沟通确认。
 
