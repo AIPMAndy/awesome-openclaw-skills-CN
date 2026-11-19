@@ -1306,6 +1306,7 @@ OpenClaw（曾用名 Moltbot / Clawdbot）是运行在本地机器上的 AI 助�
 - [youtube-full](https://github.com/openclaw/skills/tree/main/skills/therohitdas/youtube-full/SKILL.md) - Complete YouTube toolkit — transcripts, search, channels
 - [youtube-search](https://github.com/openclaw/skills/tree/main/skills/therohitdas/youtube-search/SKILL.md) - Search YouTube for videos and channels, search
 - [youtube-summarizer](https://github.com/openclaw/skills/tree/main/skills/abe238/youtube-summarizer/SKILL.md) - Automatically fetch YouTube video transcripts, generate
+- [youtube-transcript](https://clawhub.ai/tubeagentkit/skills/youtube-transcript) - Fetch YouTube transcripts with timestamps, search videos and browse playlists.
 - [yt](https://github.com/openclaw/skills/tree/main/skills/therohitdas/yt/SKILL.md) - Quick YouTube utility — fetch transcripts, search videos, get latest
 - [yt-api-cli](https://github.com/openclaw/skills/tree/main/skills/nerveband/yt-api-cli/SKILL.md) - Manage your YouTube account from the command line.
 - [zhipu-web-search](https://github.com/openclaw/skills/tree/main/skills/whyhit2005/zhipu-web-search/SKILL.md) - Zhipu AI Web Search Tool - Provides flexible search
