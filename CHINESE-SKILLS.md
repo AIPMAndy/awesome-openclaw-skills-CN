@@ -31,6 +31,7 @@
 | [weread](https://github.com/openclaw/skills/tree/main/skills/z233/weread/SKILL.md) | 获取微信读书笔记和划线 |
 | [wechat-manager](https://github.com/clawto/wechat-manager) | 💬 微信智能管家：消息管理、自动回复、联系人管理、聊天分析 |
 | [alipay-wechat-pay](https://github.com/clawto/alipay-wechat-pay) | 💳 支付宝/微信支付账单解析、智能分类、月度报告 |
+| [readgzh](https://clawhub.ai/sweesama/skills/readgzh) | 📖 读取微信公众号文章链接，返回 AI 可读的 Markdown 正文（[ReadGZH](https://readgzh.site/)，`clawhub install readgzh`） |
 
 ### 内容平台
 | Skill | 描述 |
