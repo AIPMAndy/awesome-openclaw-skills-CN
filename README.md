@@ -1147,7 +1147,7 @@ OpenClaw（曾用名 Moltbot / Clawdbot）是运行在本地机器上的 AI 助�
 - [file-search](https://github.com/openclaw/skills/tree/main/skills/xejrax/file-search/SKILL.md) - Fast file-name and content search using `fd` and `rg` (ripgrep).
 - [find-people](https://github.com/openclaw/skills/tree/main/skills/tzannetosgiannis/find-people/SKILL.md) - Open Source Intelligence (OSINT) tool for researching
 - [finnhub](https://github.com/openclaw/skills/tree/main/skills/matthewxfz3/finnhub/SKILL.md) - Access Finnhub API for real-time stock quotes, company news, market data,.
-- [flashdata](https://github.com/flashdatadev/flashdata-skills/blob/main/skills/flashdata/SKILL.md) - Google Search, YouTube transcripts/data, and cloud-storage video downloads via CLI/MCP; free trial at flashdata.dev.
+- [flashdata](https://github.com/flashdatadev/flashdata-skills/blob/main/skills/flashdata/SKILL.md) - Real-time Google Search SERP, YouTube transcripts/data, and cloud video downloads via CLI/MCP; free trial (no credit card) at flashdata.dev.
 - [foundry](https://github.com/openclaw/skills/tree/main/skills/lekt9/foundry/SKILL.md) - Self-writing meta-extension that forges new capabilities — researches docs,.
 - [ga4-analytics](https://github.com/openclaw/skills/tree/main/skills/adamkristopher/ga4-analytics/SKILL.md) - Google Analytics 4, Search Console, and Indexing API
 - [game-cog](https://github.com/openclaw/skills/tree/main/skills/nitishgargiitd/game-cog/SKILL.md) - Other tools generate sprites.
