@@ -1436,6 +1436,7 @@ OpenClaw（曾用名 Moltbot / Clawdbot）是运行在本地机器上的 AI 助�
 - [ydc-claude-agent-sdk-integration](https://github.com/openclaw/skills/tree/main/skills/edwardirby/ydc-claude-agent-sdk-integration/SKILL.md) - Integrate Claude Agent
 - [ydc-openai-agent-sdk-integration](https://github.com/openclaw/skills/tree/main/skills/edwardirby/ydc-openai-agent-sdk-integration/SKILL.md) - Integrate OpenAI Agents
 - [zoom-manager-clawd](https://github.com/openclaw/skills/tree/main/skills/vnagin/zoom-manager-clawd/SKILL.md) - Manage Zoom meetings via OAuth API.
+- [agent-coach](https://clawhub.ai/f-o-x11/skills/agent-coach) - Daily keep or remove verdicts for an agent's installed skills.
 
 </details>
 
