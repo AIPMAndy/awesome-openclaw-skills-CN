@@ -3272,6 +3272,11 @@ OpenClaw（曾用名 Moltbot / Clawdbot）是运行在本地机器上的 AI 助�
 
 <!-- andy-author-card:end -->
 
+
+## 公共数据 API（Apify）
+
+- [publicrecords-skills](https://github.com/GeminiGeorge22/publicrecords-skills) - 适用于 Claude Code、Codex、Copilot、Cursor、Gemini CLI 的 Agent Skills + MCP 插件，覆盖 18 个公共数据 Apify Actor：美国联邦合同与资助、欧盟/英国招标、市议会会议、招聘职位、公司社交账号、Google 广告、Etsy、体育赔率、Spotify.
+
 ## License
 
 Apache 2.0 License - 详见 [LICENSE](LICENSE)
