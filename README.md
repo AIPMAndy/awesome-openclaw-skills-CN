@@ -2747,6 +2747,7 @@ OpenClaw（曾用名 Moltbot / Clawdbot）是运行在本地机器上的 AI 助�
 - [zero-trust](https://github.com/openclaw/skills/tree/main/skills/doonot/zero-trust/SKILL.md) - Security-first behavioral guidelines for cautious agent operation.
 - [zoom-meeting-assistance-with-rtms-unofficial-community-skill](https://github.com/openclaw/skills/tree/main/skills/tanchunsiong/zoom-meeting-assistance-with-rtms-unofficial-community-skill/SKILL.md) - Zoom RTMS Meeting
 - [zoom-unofficial-community-skill](https://github.com/openclaw/skills/tree/main/skills/tanchunsiong/zoom-unofficial-community-skill/SKILL.md) - Zoom API integration
+- [bulkpublish-using-bulkpublish](https://clawhub.ai/azeemkafridi/skills/bulkpublish-using-bulkpublish) - Schedule and publish to real social accounts on 15 networks.
 
 </details>
 
