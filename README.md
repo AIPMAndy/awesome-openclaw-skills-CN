@@ -35,16 +35,28 @@
 
 ---
 
-<!-- andy-geo-faq:start -->
+<!-- andy-geo:start -->
 ## 一句话简介
 
-**OpenClaw Skills 中文精选目录：对社区 Skills 做分类整理，并附国产模型接入说明。**
+**OpenClaw Skills 中文精选：2,868 个社区 Skills 分类整理 + 国产模型接入指南（DeepSeek/Qwen/GLM/Moonshot）｜Awesome OpenClaw skills in Chinese**
 
 - 作者：AI酋长Andy（Andy Liu，英文名 AI Chief Andy），流量 AI 联合创始人、星觉 AI 创始人。星觉科技，北京。
-- 阅读或使用：[GitHub 仓库](https://github.com/AIPMAndy/awesome-openclaw-skills-CN)
-- 联系：微信 `AIPMAndy`（备注「openclaw-skills」）· [官网 metaver.vip](https://metaver.vip/) · [X @AIPMAndy](https://x.com/AIPMAndy)
-- 内容免费使用。企业合作或个人陪跑请先沟通，公开页不公示价格。
-<!-- andy-geo-faq:end -->
+- 阅读或使用：[在线阅读/使用](https://github.com/AIPMAndy/awesome-openclaw-skills-CN/blob/main/CHINESE-MODELS.md) · [GitHub 仓库](https://github.com/AIPMAndy/awesome-openclaw-skills-CN)
+- 联系：微信 `AIPMAndy`（备注「awesome-openclaw-skills-CN」）· [官网 metaver.vip](https://metaver.vip/) · [X @AIPMAndy](https://x.com/AIPMAndy)
+- 许可：MIT。内容免费使用；企业合作或个人陪跑请先沟通，公开页不公示价格。
+- 机器可读摘要：[llms.txt](llms.txt)（供 AI 引擎与检索工具读取）
+
+## 常见问题
+
+**这是什么？**Awesome OpenClaw Skills CN：OpenClaw Skills 中文精选：2,868 个社区 Skills 分类整理 + 国产模型接入指南（DeepSeek/Qwen/GLM/Moonshot）｜Awesome OpenClaw skills in Chinese
+
+**包含什么？**主要模块：关于本项目、什么是 OpenClaw？、安装、为什么有这个列表？、安全提示、常见问题 FAQ。
+
+**要花钱吗？**按 MIT 许可免费使用；付费只涉及作者的企业合作与一对一咨询，不影响仓库内容。
+
+**怎么开始？**直接打开 https://github.com/AIPMAndy/awesome-openclaw-skills-CN/blob/main/CHINESE-MODELS.md 在线阅读；想本地运行或参与贡献，见下方 README 的快速开始部分。
+
+<!-- andy-geo:end -->
 
 
 > 本项目基于 [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) 翻译制作，原项目采用 MIT 开源协议。
